@@ -8,8 +8,10 @@
 
 #include <stdio.h>
 
+// 29/10/2016
+
 int main() {
-    // insert code here...
-    printf("Hello, The Flash!\n");
+    printf("%s is the best person ever\n", "Flash");
+    printf("I eat %d and eggs\n", 17);
     return 0;
 }
