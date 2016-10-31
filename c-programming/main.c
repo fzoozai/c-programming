@@ -8,20 +8,27 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-// create a constant (static object)
-#define FISH "nemo"
-#include "TopSec.h"
-
-// 29/10/2016 (Tutorial 8)
 
 int main() {
     
-    printf("Hello World, my name is %s and I am %d years old\n", MYNAME, AGE);
+    char firstName [20];
+    char crush [20];
+    unsigned int numbers;
     
+    printf("What is your name? \n");
     
-    printf("My name is %s\n", FISH);
+    scanf("%s", firstName);
     
-    printf("%s is the best person ever\n", "Flash");
-    printf("I eat %.3f eggs\n", 17.2212121);
+    printf("Who are you going to marry? \n");
+    
+    scanf("%s", crush);
+    
+    printf("How old are you? \n");
+    
+    scanf("%d", &numbers);
+    
+    printf("%s and %s are in love and the Flash is %d years old", firstName, crush, numbers);
+    
     return 0;
 }
+
