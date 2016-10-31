@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "9A08B1CD9D8390EABA8B099E907F8A3B18983A40",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "9A08B1CD9D8390EABA8B099E907F8A3B18983A40" : 9223372036854775807,
+    "E2BDEF066B469A960AF932737531B6010837EC9A" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "DA04006D-6220-41EA-8548-16604587CB32",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "9A08B1CD9D8390EABA8B099E907F8A3B18983A40" : "c-programming\/",
+    "E2BDEF066B469A960AF932737531B6010837EC9A" : "..\/..\/PSP\/psp-aufgaben"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "c-programming",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "c-programming.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/fzoozai\/c-programming.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "9A08B1CD9D8390EABA8B099E907F8A3B18983A40"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/bitbucket.org\/gamedeve\/psp-aufgaben.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "E2BDEF066B469A960AF932737531B6010837EC9A"
+    }
+  ]
+}

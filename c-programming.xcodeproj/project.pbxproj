@@ -23,6 +23,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		8A37D5831DC76A5C0099CB04 /* TopSec.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TopSec.h; sourceTree = "<group>"; };
+		8A66D2FF1DC60072006F2AA2 /* AD-DA-Wandlung */ = {isa = PBXFileReference; lastKnownFileType = folder; name = "AD-DA-Wandlung"; path = "../../../PSP/psp-aufgaben/Versuch 1/Codegeruest/AD-DA-Wandlung"; sourceTree = "<group>"; };
+		8A66D3001DC60072006F2AA2 /* ADCMenue */ = {isa = PBXFileReference; lastKnownFileType = folder; name = ADCMenue; path = "../../../PSP/psp-aufgaben/Versuch 1/Codegeruest/ADCMenue"; sourceTree = "<group>"; };
 		8AF80C641DC3ECA100D16F85 /* c-programming */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "c-programming"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8AF80C671DC3ECA100D16F85 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -43,6 +46,8 @@
 			children = (
 				8AF80C661DC3ECA100D16F85 /* c-programming */,
 				8AF80C651DC3ECA100D16F85 /* Products */,
+				8A66D2FF1DC60072006F2AA2 /* AD-DA-Wandlung */,
+				8A66D3001DC60072006F2AA2 /* ADCMenue */,
 			);
 			sourceTree = "<group>";
 		};
@@ -58,6 +63,7 @@
 			isa = PBXGroup;
 			children = (
 				8AF80C671DC3ECA100D16F85 /* main.c */,
+				8A37D5831DC76A5C0099CB04 /* TopSec.h */,
 			);
 			path = "c-programming";
 			sourceTree = "<group>";
@@ -246,6 +252,7 @@
 				8AF80C6D1DC3ECA100D16F85 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
